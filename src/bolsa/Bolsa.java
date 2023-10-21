@@ -10,7 +10,7 @@ public class Bolsa {
     public Bolsa(String nome, DynamicArray<Corretora> corretoras) {
         this.nome = nome;
         this.ativos = new DynamicArray<>();
-        this.corretoras = corretoras;
+        this.corretoras = new DynamicArray<>();
     }
 
     public String getNome() {
