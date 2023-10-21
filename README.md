@@ -7,7 +7,7 @@ Esta aplicação simula um pregão na bolsa de valores, o período diário de ne
 
 ## Funcionalidades:
 <p>
-__Investidor__: pessoa que é cliente de uma ou mais corretora e que envia ordens de compra e venda de ativos, consegue comprar ativos por meio da corretora, e os armazena em um array, além de ser possível adicionar mais dinheiro na conta do Investidor, e possuí um Tratamento de excessões, que não permite a compra de ativos que superem a quantidade de dinheiro na conta do investidor, e não deixa o Investidor comprar um número de ativos menor do que 0.
+<strong>Investidor</strong>: pessoa que é cliente de uma ou mais corretora e que envia ordens de compra e venda de ativos, consegue comprar ativos por meio da corretora, e os armazena em um array, além de ser possível adicionar mais dinheiro na conta do Investidor, e possuí um Tratamento de excessões, que não permite a compra de ativos que superem a quantidade de dinheiro na conta do investidor, e não deixa o Investidor comprar um número de ativos menor do que 0.
 <p/>  
 <p>
 Carteira: são os ativos que foram comprados pelo Investidor, recebe como paramêtro em seu método construtor a lista dos ativos do Investidor.
