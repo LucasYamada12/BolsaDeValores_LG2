@@ -26,11 +26,6 @@ Esta aplicação simula um pregão na bolsa de valores, o período diário de ne
 <strong>Dynamic Array:</strong> estrutura de dados dinâmica implementada para a construção da aplicação.
 </p>
 
-## Uso:
-<p>
-O usuário consegue
-</p>
-
 ## Atividade realizada por:
 <p>
 Lucas Eiki Yamada</br>
