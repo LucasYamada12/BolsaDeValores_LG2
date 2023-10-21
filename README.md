@@ -28,7 +28,7 @@ Esta aplicação simula um pregão na bolsa de valores, o período diário de ne
 
 ## Uso:
 <p>
-
+O usuário consegue
 </p>
 
 ## Atividade realizada por:
