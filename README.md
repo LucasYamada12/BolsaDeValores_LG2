@@ -1,7 +1,4 @@
 # Atividade realizada por:
-Júlio Antunes Estrela
-Lucas Eiki Yamada (https://github.com/lucasyamada)
+<p>Júlio Antunes Estrela<p>
+<p>Lucas Eiki Yamada (https://github.com/lucasyamada)<p>
 
-Atividade realizada por:
-Júlio Antunes Estrela
-Lucas Eiki Yamada (https://github.com/lucasyamada)
