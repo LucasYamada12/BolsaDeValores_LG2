@@ -17,6 +17,9 @@ Corretora: empresa que realiza o serviço de envio das ordens de seus clientes, 
 <p/>
 Ativos: papel negociado pelas empresas listadas na bolsa pode ser Ações ordinária, preferenciais ou FII - fundos de investimentos imobiliários.
 <p>
+<p>
+FII e Ações: são subclasses da classe "Ativos" e herdam seus métodos e atributos.
+</p>
 Bolsa: empresa responsável pelas negociações realizadas durante o pregão
 <p/>
 <p>
