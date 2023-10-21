@@ -2,10 +2,17 @@
 
 ## Descrição:
 <p>
-  Esta aplicação simula um pregão na bolsa de valores, o período diário de negociaçãos de ações entre compradores e vendedores
+  Esta aplicação simula um pregão na bolsa de valores, o período diário de negociaçãos de ações entre compradores e vendedores.
 </p>
+## Funcionalidades:
+<p>
+  
+<p/>
 
-## Funcionalidades
+## Uso:
+<p>
+  
+</p>
 
 ## Atividade realizada por:
 <p>
