@@ -7,7 +7,22 @@
 
 ## Funcionalidades:
 <p>
-  
+     Investidor : pessoa que é cliente de uma ou mais corretora e que envia ordens de compra e venda de ativos
+
+    Carteira: São os ativos que foram comprado pelo Investidor
+
+     Corretora: Empresa que realiza o serviço de envio das ordens de seus clientes
+
+     Ativos: Papel negociado pelas empresas listadas na bolsa pode ser Ações ordinária, preferenciais ou FII - fundos de investimentos imobiliários
+
+    Bolsa: empresa responsável pelas negociações realizadas durante o pregão
+
+    Custodiante:detentor ou fiel depositário de garantia dos papéis negociados
+
+
+
+        
+
 <p/>
 
 ## Uso:
