@@ -1,4 +1,4 @@
-##
+# Pregão na bolsa de valores.
 
 ## Atividade realizada por:
 <p>
