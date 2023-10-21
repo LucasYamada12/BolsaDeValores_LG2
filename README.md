@@ -23,6 +23,9 @@ Esta aplicação simula um pregão na bolsa de valores, o período diário de ne
 <strong>Bolsa:</strong> empresa responsável pelas negociações realizadas durante o pregão, possui uma lista que guarda os ativos dos Investidores, e uma lista que guarda as corretoras, que pertencem à esta empresa.
 <p/>
 <p>
+<strong>Custodiante:</strong> detentor ou fiel depositário de garantia dos papéis negociados, possui uma lista que conteém as carteiras dos Investidores.
+</p>
+<p>
 <strong>Dynamic Array:</strong> estrutura de dados dinâmica implementada para a construção da aplicação.
 </p>
 
