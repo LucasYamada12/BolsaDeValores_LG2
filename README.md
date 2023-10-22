@@ -1,4 +1,4 @@
-<h1 align = "center">Pregão na bolsa de valores</h1>
+### Pregão na bolsa de valores
 
 ## Descrição:
 <p>
